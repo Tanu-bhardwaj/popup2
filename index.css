@@ -1,0 +1,25 @@
+
+#heading{
+    color: #51C3D8;
+    font-size: 22px;
+    line-height: 0.7;
+    font-weight: 550;
+    
+    }
+    #subheading{
+    color: #575757;
+    font-size: 15px;
+    }
+    .modal-dialog{
+            width: 52%;
+        height: 50%;
+    }
+    .go{
+       margin-top: -2%;
+        text-align: center;
+        background-color: transparent;
+        margin-bottom:4% ;
+        border-left: none;
+        border-right: none;
+        border-top: none;
+    }
